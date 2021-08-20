@@ -10,7 +10,7 @@ body {
 }
 
 .h1 {
-  color: blue;
+  color: black;
   padding-left: 35%;
 }
 
@@ -28,11 +28,11 @@ li.a.link {
 }
 
 .blue {
-  color: blue;
+  color: black;
 }
 
 .bluee {
-  color: blue;
+  color: black;
 }
 
 .green {
@@ -41,4 +41,12 @@ li.a.link {
 
 .grey {
   background-color: rgb(20, 18, 18);
+}
+
+.wdt {
+  width: 5% !important;
+  background-color: rgb(194, 189, 189);
+}
+.img {
+  height: 300px !important;
 }
